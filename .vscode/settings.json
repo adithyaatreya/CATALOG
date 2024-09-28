@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "lib"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Adithya Atreya\\CATALOG\\CATALOG\\lib\\Jama-1.0.3.jar",
+        "c:\\Users\\Adithya Atreya\\CATALOG\\CATALOG\\lib\\json-20240303.jar"
+    ]
+}
